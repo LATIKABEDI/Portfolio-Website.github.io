@@ -184,6 +184,7 @@ img {
 }
 
 .nav_toggle {
+    margin-top: 30xp;
     font-size: 1.5rem;
     cursor: pointer;
 }
@@ -741,6 +742,7 @@ img {
 .active-modal {
     opacity: 1;
     visibility: visible;
+    padding-top: 5px;
 }
 
 
